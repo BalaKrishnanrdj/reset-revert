@@ -1,4 +1,5 @@
 this is folder 1
+<<<<<<< HEAD:folder1.html
 
 <h1>line 2</h1>
 
@@ -17,3 +18,5 @@ this is folder 1
 
 <h1>line 9.1 in vscode</h1>
 <h1>line 9</h1>
+=======
+>>>>>>> parent of 3e8b2ab (line 2 add):folder1
